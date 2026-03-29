@@ -1,18 +1,26 @@
-<!--
-  Profile README for Mubasshir Ali
-  Visit: https://github.com/MUBASSHIRALI0710
--->
+<!-- Profile README for Mubasshir Ali -->
 
-# 👋 Hi, I'm Mubasshir Ali
+<h1 align="center">Hi 👋, I'm Mubasshir Ali</h1>
 
-**Full Stack Developer** | **YouTube Educator** | **B.Tech Computer Science**
+<h3 align="center">💻 Full-Stack Web Developer | 🚀 Tech Enthusiast</h3>
 
-I build full‑stack web applications and teach coding to over 1 million developers on my channel **Mubasshir Codes**.  
-I believe in turning complex ideas into simple, working code.
+<p align="center">
+Passionate about building modern web applications and solving real-world problems through technology.
+</p>
 
 ---
 
-### 🛠 Tech Stack
+## 🚀 About Me
+
+- 🎓 B.Tech in Computer Science
+- 💻 Full-Stack Developer
+- 🌱 Currently learning **DSA & Backend Architecture**
+- ⚡ Interested in **Web Development, AI, and Scalable Systems**
+- 🎯 Goal: Become a **high-level software engineer**
+
+---
+
+## 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -24,50 +32,50 @@ I believe in turning complex ideas into simple, working code.
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
-<!-- These pins will automatically show your pinned repositories once you set them up on your profile -->
-[![Student Management System](https://github-readme-stats.vercel.app/api/pin/?username=MUBASSHIRALI0710&repo=student-management-system&show_owner=true)](https://github.com/MUBASSHIRALI0710/student-management-system)
-[![Diabetes Prediction Model](https://github-readme-stats.vercel.app/api/pin/?username=MUBASSHIRALI0710&repo=diabetes-prediction&show_owner=true)](https://github.com/MUBASSHIRALI0710/diabetes-prediction)
+[![Student Management System](https://github-readme-stats.vercel.app/api/pin/?username=MUBASSHIRALI0710&repo=student-management-system)](https://github.com/MUBASSHIRALI0710/student-management-system)
 
-[![Coaching Platform](https://github-readme-stats.vercel.app/api/pin/?username=MUBASSHIRALI0710&repo=coaching-platform&show_owner=true)](https://github.com/MUBASSHIRALI0710/coaching-platform)
-[![Portfolio Website](https://github-readme-stars.vercel.app/api/pin/?username=MUBASSHIRALI0710&repo=Mubasshir-portfolio&show_owner=true)](https://mubasshirali0710.github.io/Mubasshir-portfolio/)
+[![Diabetes Prediction](https://github-readme-stats.vercel.app/api/pin/?username=MUBASSHIRALI0710&repo=diabetes-prediction)](https://github.com/MUBASSHIRALI0710/diabetes-prediction)
 
----
-
-### 🎥 YouTube
-
-I create tutorials on web development, JavaScript, React, and career advice.
-
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Mubasshir%20Codes-FF0000?style=flat&logo=youtube)](https://youtube.com/@mubasshircodes)  
- • **50+ Tutorials**
+[![Coaching Platform](https://github-readme-stats.vercel.app/api/pin/?username=MUBASSHIRALI0710&repo=coaching-platform)](https://github.com/MUBASSHIRALI0710/coaching-platform)
 
 ---
 
-### 📫 Connect with Me
+## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/mubasshir-ali0710)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel)](https://mubasshirali0710.github.io/Mubasshir-portfolio/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:mubasshirali0710@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/MUBASSHIRALI0710)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/mubasshir-ali0710)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel)](https://mubasshirali0710.github.io/Mubasshir-portfolio/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:mubasshirali0710@gmail.com)
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![Mubasshir's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUBASSHIRALI0710&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MUBASSHIRALI0710&layout=compact&theme=radical)
 
 ---
 
-### ⚡ Fun Fact
+## 🔥 GitHub Streak
 
-I started coding because I wanted to build a game. Now I build apps and teach others to do the same!
+![GitHub Streak](https://streak-stats.demolab.com/?user=MUBASSHIRALI0710&theme=radical)
 
-<!--
-  🔧 Things to update before committing:
-  1. Replace the YouTube link with your actual channel URL.
-  2. Replace the LinkedIn link with your actual profile URL.
-  3. Replace the email address with your real email.
-  4. Once you create the project repositories, the pinned cards will work automatically.
--->
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+## 👀 Profile Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=MUBASSHIRALI0710&color=blue)
+
+---
+
+⭐️ From [Mubasshir Ali](https://github.com/MUBASSHIRALI0710)
