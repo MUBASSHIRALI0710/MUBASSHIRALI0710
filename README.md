@@ -60,6 +60,16 @@ I build modern web applications and continuously learn new technologies to solve
 
 ---
 
+
+# 🗃️ My GitHub Repository
+<p align="center">
+  <strong>📘 60 Days DSA Challenge in C++</strong><br/>
+  <a href="https://github.com/MUBASSHIRALI0710/60-Days-DSA-CPP">View Repository →</a>
+</p>
+
+---
+
+
 # 📊 GitHub Stats
 
 <p align="center">
