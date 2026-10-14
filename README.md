@@ -2,12 +2,12 @@
 
 <!-- Developer Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mubasshir%20Ali&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20AI-Integrated%20Systems&descFontSize=18&descAlignY=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mubasshir%20Ali&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20and%20AI-Integrated%20Systems&descFontSize=18&descAlignY=62"/>
 </p>
 
 <!-- Animated Typing Tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=780&height=50&duration=3500&pause=1000&color=00D2FF&lines=Hi+I'm+Mubasshir+Ali;Software+Engineer+%7C+Full-Stack+%26+AI+Systems;Creator+of+JobPilot+AI+(NanoBrowser+SaaS);TypeScript+%7C+React+%7C+Node.js+%7C+Google+Cloud;Open+for+Full-Time+Software+Engineer+Roles!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=780&height=50&duration=3500&pause=1000&color=00D2FF&lines=Hi+I'm+Mubasshir+Ali;Software+Engineer+%7C+Full-Stack+and+AI+Systems;Creator+of+JobPilot+AI+(NanoBrowser+SaaS);TypeScript+%7C+React+%7C+Node.js+%7C+Google+Cloud;Open+for+Full-Time+Software+Engineer+Roles!" />
 </p>
 
 <h3 align="center">📍 Bengaluru, India | 💻 Full-Stack & AI Systems Engineer | 🚀 Immediate Joiner</h3>
@@ -18,7 +18,7 @@
 
 ---
 
-<!-- 💼 RECRUITER & HIRING CORNER (ATTRACTIVE CALLOUT) -->
+<!-- 💼 RECRUITER & HIRING CORNER -->
 <table align="center" width="100%">
   <tr>
     <td align="center" style="background-color: #0d1117; border: 2px solid #58a6ff; border-radius: 10px; padding: 20px;">
@@ -73,9 +73,9 @@
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,bootstrap" alt="Frontend" /><br/>
   <!-- Backend & Cloud -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,gcp,firebase,aws" alt="Backend & Cloud" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,gcp,firebase,aws" alt="Backend and Cloud" /><br/>
   <!-- Databases & DevOps -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,git,github,postman,vscode" alt="Databases & Tools" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,git,github,postman,vscode" alt="Databases and Tools" />
 </p>
 
 * **Languages:** JavaScript (ES6+), TypeScript, Python, C++, SQL
@@ -129,18 +129,18 @@
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MUBASSHIRALI0710&show_icons=true&theme=radical&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUBASSHIRALI0710&layout=compact&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MUBASSHIRALI0710&amp;show_icons=true&amp;theme=radical&amp;rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUBASSHIRALI0710&amp;layout=compact&amp;theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MUBASSHIRALI0710&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=MUBASSHIRALI0710&amp;theme=radical" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MUBASSHIRALI0710&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MUBASSHIRALI0710&amp;color=blue&amp;style=flat-square&amp;label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
