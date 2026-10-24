@@ -44,7 +44,7 @@
           <img src="https://img.shields.io/badge/LinkedIn-Connect%20Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
         </a>
         &nbsp;
-        <a href="https://mubasshirali0710.github.io/Mubasshir-portfolio/">
+        <a href="[https://mubasshirali0710.github.io/Mubasshir-portfolio/](https://mubasshir-portfolio-henna.vercel.app/)">
           <img src="https://img.shields.io/badge/Live%20Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </p>
